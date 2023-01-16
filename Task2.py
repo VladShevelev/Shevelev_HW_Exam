@@ -13,3 +13,5 @@ def positive_sum(arr):
             sum += arr[i]
         
     return(sum)
+
+# Выполнено
